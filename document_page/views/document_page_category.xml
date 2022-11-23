@@ -112,6 +112,11 @@
         <field name="view_mode">tree,form</field>
         <field name="view_id" ref="view_category_tree" />
         <field name="search_view_id" ref="view_document_category_filter" />
+        <field name="help" type="html">
+            <p class="o_view_nocontent_smiling_face">
+                Crea una categoría para agrupar tus páginas de conocimiento.
+            </p>
+        </field>
     </record>
     <record id="action_category_view_tree" model="ir.actions.act_window.view">
         <field name="sequence" eval="0" />

@@ -84,6 +84,12 @@
         <field name="name">Page history</field>
         <field name="res_model">document.page.history</field>
         <field name="view_mode">tree,form</field>
+        <field name="help" type="html">
+            <p class="o_view_nocontent_smiling_face">
+                No Page History!
+            </p>
+        </field>
+        <field name="context">{'create': False}</field>
     </record>
 
     <menuitem
@@ -101,7 +107,7 @@
         <field name="domain">[('page_id','=',active_id)]</field>
         <field
             name="context"
-        >{'search_default_page_id': [active_id], 'default_page_id': active_id}</field>
+        >{'search_default_page_id': [active_id], 'default_page_id': active_id ,'create': False}</field>
         <field name="binding_model_id" ref="document_page.model_document_page" />
     </record>
 
