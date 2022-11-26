@@ -19,5 +19,6 @@
             "document_page_reference/static/src/js/**/*",
         ],
     },
+    "demo": ["demo/document_page_reference.xml"],
     "maintainers": ["etobella"],
 }

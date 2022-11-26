@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo noupdate="0">
+
+    <!-- CRM, elearning,Contactos, contabilidad, Marketing-->
+    <record id="document_page.demo_page1" model="document.page">
+        <field name="reference">funcrm</field>
+    </record>
+    <record id="document_page.demo_page2" model="document.page">
+        <field name="reference">funelearning</field>
+    </record>
+    <record id="document_page.demo_page3" model="document.page">
+        <field name="reference">funcontactos</field>
+    </record>
+    <record id="document_page.demo_page4" model="document.page">
+        <field name="reference">funcontabilidad</field>
+    </record>
+    <record id="document_page.demo_page5" model="document.page">
+        <field name="reference">funmarketing</field>
+    </record>
+
+    <record id="document_page.demo_page6" model="document.page">
+        <field name="reference">guiacrm</field>
+    </record>
+    <record id="document_page.demo_page7" model="document.page">
+        <field name="reference">guiaelearning</field>
+    </record>
+    <record id="document_page.demo_page8" model="document.page">
+        <field name="reference">guiacontactos</field>
+    </record>
+    <record id="document_page.demo_page9" model="document.page">
+        <field name="reference">guiacontabilidad</field>
+    </record>
+    <record id="document_page.demo_page10" model="document.page">
+        <field name="reference">guiamarketing</field>
+    </record>
+
+    <record id="document_page.demo_page11" model="document.page">
+        <field name="reference">teccrm</field>
+    </record>
+    <record id="document_page.demo_page12" model="document.page">
+        <field name="reference">tecelearning</field>
+    </record>
+    <record id="document_page.demo_page13" model="document.page">
+        <field name="reference">teccontactos</field>
+    </record>
+    <record id="document_page.demo_page14" model="document.page">
+        <field name="reference">teccontabilidad</field>
+    </record>
+    <record id="document_page.demo_page15" model="document.page">
+        <field name="reference">tecmarketing</field>
+    </record>
+
+    <record id="document_page.demo_page16" model="document.page">
+        <field name="reference">vercrm</field>
+    </record>
+    <record id="document_page.demo_page17" model="document.page">
+        <field name="reference">verelearning</field>
+    </record>
+    <record id="document_page.demo_page18" model="document.page">
+        <field name="reference">vercontactos</field>
+    </record>
+    <record id="document_page.demo_page19" model="document.page">
+        <field name="reference">vercontabilidad</field>
+    </record>
+    <record id="document_page.demo_page20" model="document.page">
+        <field name="reference">vermarketing</field>
+    </record>
+
+</odoo>
