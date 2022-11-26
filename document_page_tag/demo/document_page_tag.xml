@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo noupdate="0">
+    <record id="demo_page_tag1" model="document.page.tag">
+        <field name="name">Usuario</field>
+        <field name="color">1</field>
+    </record>
+    <record id="demo_page_tag2" model="document.page.tag">
+        <field name="name">Técnico</field>
+        <field name="color">2</field>
+    </record>
+    <record id="demo_page_tag3" model="document.page.tag">
+        <field name="name">Comercial</field>
+        <field name="color">3</field>
+    </record>
+    <record id="demo_page_tag4" model="document.page.tag">
+        <field name="name">Finanzas</field>
+        <field name="color">4</field>
+    </record>
+    <record id="demo_page_tag5" model="document.page.tag">
+        <field name="name">Ventas</field>
+        <field name="color">5</field>
+    </record>
+    <record id="demo_page_tag6" model="document.page.tag">
+        <field name="name">Sitios Web</field>
+        <field name="color">6</field>
+    </record>
+    <record id="demo_page_tag7" model="document.page.tag">
+        <field name="name">Marketing</field>
+        <field name="color">7</field>
+    </record>
+    <record id="demo_page_tag8" model="document.page.tag">
+        <field name="name">Recursos Humanos</field>
+        <field name="color">8</field>
+    </record>
+    <record id="demo_page_tag9" model="document.page.tag">
+        <field name="name">Servicios</field>
+        <field name="color">9</field>
+    </record>
+    <!-- CRM, elearning,Contactos, contabilidad, Marketing-->
+    <record id="document_page.demo_page1" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag3')), (4, ref('document_page_tag.demo_page_tag5'))]"/>
+    </record>
+    <record id="document_page.demo_page2" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag3')), (4, ref('document_page_tag.demo_page_tag6'))]"/>
+    </record>
+    <record id="document_page.demo_page3" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag3')), (4, ref('document_page_tag.demo_page_tag5'))]"/>
+    </record>
+    <record id="document_page.demo_page4" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag3')), (4, ref('document_page_tag.demo_page_tag4'))]"/>
+    </record>
+    <record id="document_page.demo_page5" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag3')), (4, ref('document_page_tag.demo_page_tag7'))]"/>
+    </record>
+
+    <record id="document_page.demo_page6" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag1')), (4, ref('document_page_tag.demo_page_tag5'))]"/>
+    </record>
+    <record id="document_page.demo_page7" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag1')), (4, ref('document_page_tag.demo_page_tag6'))]"/>
+    </record>
+    <record id="document_page.demo_page8" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag1')), (4, ref('document_page_tag.demo_page_tag5'))]"/>
+    </record>
+    <record id="document_page.demo_page9" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag1')), (4, ref('document_page_tag.demo_page_tag4'))]"/>
+    </record>
+    <record id="document_page.demo_page10" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag1')), (4, ref('document_page_tag.demo_page_tag7'))]"/>
+    </record>
+
+    <record id="document_page.demo_page11" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag2')), (4, ref('document_page_tag.demo_page_tag5'))]"/>
+    </record>
+    <record id="document_page.demo_page12" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag2')), (4, ref('document_page_tag.demo_page_tag6'))]"/>
+    </record>
+    <record id="document_page.demo_page13" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag2')), (4, ref('document_page_tag.demo_page_tag5'))]"/>
+    </record>
+    <record id="document_page.demo_page14" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag2')), (4, ref('document_page_tag.demo_page_tag4'))]"/>
+    </record>
+    <record id="document_page.demo_page15" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag2')), (4, ref('document_page_tag.demo_page_tag7'))]"/>
+    </record>
+
+    <record id="document_page.demo_page16" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag2')), (4, ref('document_page_tag.demo_page_tag5'))]"/>
+    </record>
+    <record id="document_page.demo_page17" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag2')), (4, ref('document_page_tag.demo_page_tag6'))]"/>
+    </record>
+    <record id="document_page.demo_page18" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag2')), (4, ref('document_page_tag.demo_page_tag5'))]"/>
+    </record>
+    <record id="document_page.demo_page19" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag2')), (4, ref('document_page_tag.demo_page_tag4'))]"/>
+    </record>
+    <record id="document_page.demo_page20" model="document.page">
+        <field name="tag_ids" eval="[(4, ref('document_page_tag.demo_page_tag2')), (4, ref('document_page_tag.demo_page_tag7'))]"/>
+    </record>
+
+</odoo>
