@@ -26,8 +26,6 @@
         "views/document_page.xml",
         "views/document_page_category.xml",
         "views/document_page_history.xml",
-        "views/report_document_page.xml",
-        "demo/document_page.xml",
     ],
     "demo": ["demo/document_page.xml"],
     "assets": {

@@ -14,7 +14,6 @@
         "views/document_page_tag.xml",
         "views/document_page.xml",
         "security/ir.model.access.csv",
-        "demo/document_page_tag.xml",
     ],
     "demo": ["demo/document_page_tag.xml"],
     "installable": True,

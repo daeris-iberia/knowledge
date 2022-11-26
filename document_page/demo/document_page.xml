@@ -519,18 +519,6 @@ Activar campañas<br></li></ul><hr contenteditable="false"><h2>Servidores de cor
     </record>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
     <record id="demo_page16" model="document.page">
         <field name="name">Versiones CRM</field>
         <field name="draft_name">1.0</field>
