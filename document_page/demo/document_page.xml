@@ -10,7 +10,7 @@
         <field name="type">category</field>
         <field name="template">
 <![CDATA[
-<p><img class="img-fluid o_we_custom_image" src="/document_page/static/src/img/conocimiento.png" alt="conocimiento"></p><h1>Nombre de la aplicación</h1><p>Imagen, gif animado o video<br></p><hr><h2>Funcionalidades</h2><ul><li>Funcionalidad 1</li><li>Funcionalidad 2</li><li>Funcionalidad 3</li></ul><hr><h2>Funcionalidad 1</h2><p>Descripción funcionalidad 1</p><p>Imagen funcionalidad 1</p><h2>Funcionalidad 2<br></h2><p>Descripción funcionalidad 2</p><p>Imagen funcionalidad 2</p><h2>Funcionalidad 3<br></h2><p>Descripción funcionalidad 3</p><p>Imagen funcionalidad 3</p><hr><h2>Enlaces</h2><p><a href="https://docs.daeris.com/aplicaciones.html" target="_blank" class="btn btn-secondary flat btn-lg" data-original-title="" title="" contenteditable="true">Enlace 1<a></a></a></p><p><a href="https://docs.daeris.com/aplicaciones.html" target="_blank" class="btn btn-secondary flat btn-lg">Enlace 2</a></p>
+<p><img class="img-fluid o_we_custom_image" src="/document_page/static/src/img/conocimiento.png" alt="conocimiento"></p><h1>Nombre de la aplicación</h1><p>Imagen descriptiva<br></p><hr><h2>Funcionalidades</h2><ul><li>Funcionalidad 1</li><li>Funcionalidad 2</li><li>Funcionalidad 3</li></ul><hr><h2>Funcionalidad 1</h2><p>Descripción funcionalidad 1</p><p>Imagen funcionalidad 1</p><h2>Funcionalidad 2<br></h2><p>Descripción funcionalidad 2</p><p>Imagen funcionalidad 2</p><h2>Funcionalidad 3<br></h2><p>Descripción funcionalidad 3</p><p>Imagen funcionalidad 3</p><hr><h2>Enlaces</h2><p><a href="https://docs.daeris.com/aplicaciones.html" target="_blank" class="btn btn-secondary flat btn-lg" data-original-title="" title="" contenteditable="true">Enlace 1<a></a></a></p><p><a href="https://docs.daeris.com/aplicaciones.html" target="_blank" class="btn btn-secondary flat btn-lg">Enlace 2</a></p>
 ]]>
         </field>
     </record>
@@ -20,7 +20,7 @@
         <field name="template">
 <![CDATA[
 <p><img class="img-fluid o_we_custom_image" src="/document_page/static/src/img/conocimiento.png" alt="conocimiento">
-</p><h1>Nombre de la aplicación</h1><p>Imagen, gif animado o video<br></p><h2>Modelo</h2><ul><li>Concepto 1<br></li><li>
+</p><h1>Nombre de la aplicación</h1><p>Imagen descriptiva<br></p><h2>Modelo</h2><ul><li>Concepto 1<br></li><li>
 Concepto
 
 2</li><li>
@@ -59,7 +59,7 @@ acción
         <field name="template">
 <![CDATA[
 <p><img class="img-fluid o_we_custom_image" src="/document_page/static/src/img/conocimiento.png" alt="conocimiento">
-</p><h1>Nombre de la aplicación</h1><p>Imagen, gif animado o video<br></p><h2>Modelo</h2><ul><li>Concepto 1<br></li><li>
+</p><h1>Nombre de la aplicación</h1><p>Imagen descriptiva<br></p><h2>Modelo</h2><ul><li>Concepto 1<br></li><li>
 Concepto
 
 2</li><li>
@@ -97,7 +97,7 @@ acción
         <field name="type">category</field>
         <field name="template">
 <![CDATA[
-<p><img class="img-fluid o_we_custom_image" src="/document_page/static/src/img/conocimiento.png" alt="conocimiento" data-original-title="" title="" aria-describedby="tooltip397125"></p><h1>Nombre de la aplicación</h1><p>Imagen, gif animado o video<br></p><hr contenteditable="false"><h2>Historial de versiones<br></h2><table class="table table-bordered"><tbody><tr><td><strong>Versión</strong><br></td><td><strong>Funcionalidades</strong><br></td><td><strong>Responsable</strong><br></td><td><strong>Fecha</strong><br></td></tr><tr><td><br></td><td><br></td><td><br></td><td><br></td></tr><tr><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody></table><hr contenteditable="false"><h2>Historial de incidencias<br></h2><table class="table table-bordered"><tbody><tr><td><strong>Versión</strong><br></td><td><strong>Incidencia</strong><br></td><td><strong>Fecha</strong><br></td><td><strong>Responsable</strong><br></td><td><strong>Solucionado</strong><br></td></tr><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><ul class="o_checklist"><li placeholder="List" class="oe-hint" id="checklist-id-78331388542"><br></li></ul></td></tr><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><ul class="o_checklist"><li placeholder="List" class="oe-hint" id="checklist-id-474909834993"><br></li></ul></td></tr></tbody></table><p>
+<p><img class="img-fluid o_we_custom_image" src="/document_page/static/src/img/conocimiento.png" alt="conocimiento" data-original-title="" title="" aria-describedby="tooltip397125"></p><h1>Nombre de la aplicación</h1><p>Imagen descriptiva<br></p><hr contenteditable="false"><h2>Historial de versiones<br></h2><table class="table table-bordered"><tbody><tr><td><strong>Versión</strong><br></td><td><strong>Funcionalidades</strong><br></td><td><strong>Responsable</strong><br></td><td><strong>Fecha</strong><br></td></tr><tr><td><br></td><td><br></td><td><br></td><td><br></td></tr><tr><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody></table><hr contenteditable="false"><h2>Historial de incidencias<br></h2><table class="table table-bordered"><tbody><tr><td><strong>Versión</strong><br></td><td><strong>Incidencia</strong><br></td><td><strong>Fecha</strong><br></td><td><strong>Responsable</strong><br></td><td><strong>Solucionado</strong><br></td></tr><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><ul class="o_checklist"><li placeholder="List" class="oe-hint" id="checklist-id-78331388542"><br></li></ul></td></tr><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><ul class="o_checklist"><li placeholder="List" class="oe-hint" id="checklist-id-474909834993"><br></li></ul></td></tr></tbody></table><p>
 <br></p>]]>
         </field>
     </record>

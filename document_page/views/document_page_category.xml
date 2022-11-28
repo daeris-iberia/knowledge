@@ -44,6 +44,7 @@
                                 class="oe_view_only"
                                 options='{"safe": True, "codeview": True}'
                                 required="0"
+                                attrs="{'readonly': True}"
                             />
                         </page>
                     </notebook>
